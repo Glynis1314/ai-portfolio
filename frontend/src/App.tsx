@@ -12,7 +12,7 @@ function App() {
     setMessages((prev) => [...prev, { role: "user", text: userMsg }]);
     setInput("");
 
-    const res = await fetch("http://localhost:8000/chat", {
+    const res = await fetch("https://implement-historic-handbook-restrictions.trycloudflare.com/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ message: userMsg }),
