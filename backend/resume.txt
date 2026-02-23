@@ -1,0 +1,67 @@
+Name: Glynis D’Mello
+Location: Mumbai, India
+Email: glynisdarryldmello@gmail.com
+Phone: +91 9137338378
+GitHub: https://github.com/Glynis1314
+LinkedIn: https://linkedin.com/in/glynisdmello
+
+Summary:
+I am a Bachelor of Engineering student in Information Technology currently in my 3rd year at Don Bosco Institute of Technology, Mumbai. I am a full-stack developer with experience in MERN stack applications and a strong interest in AI-driven systems and modern web development.
+
+Education:
+Bachelor of Engineering in Information Technology
+Don Bosco Institute of Technology (DBIT), Mumbai
+CGPA: 8.025
+Expected Graduation: May 2027
+Current Year: 3rd Year (Academic Year 2025–2026)
+
+Technical Skills:
+
+Programming Languages:
+C, C++, Java, Python, JavaScript, SQL
+
+Web Technologies & Tools:
+React, Node.js, Express, MongoDB, Git, Firebase, HTML, CSS
+
+Projects:
+
+1. CheckIn Time (2024)
+- Smart attendance and event check-in system
+- Built using MERN stack
+- Implemented QR authentication
+- Real-time dashboards for attendance tracking
+
+2. MakeHive (2024)
+- Small-business e-commerce platform
+- Features include product listings, cart system, user authentication, and checkout flow
+- Developed using MERN stack
+
+Certifications:
+
+- Full Stack Web Development Certification – Udemy (2024)
+  Covered HTML, CSS, JavaScript, React, Node.js, Express, MongoDB
+
+- Generative AI Certification – Outskill (2024)
+  Learned LLM fundamentals, prompt engineering, and AI-assisted workflows
+
+Positions of Responsibility:
+
+- Assistant Web Development Head, IEEE DBIT (2024–Present)
+  Managed and updated IEEE website for events and activities
+
+- PR Head, CSI DBIT (2024–Present)
+  Led promotional campaigns and improved student engagement
+
+- Alumni Cell Member, DBIT (2025–Present)
+  Worked with alumni and supported institute initiatives
+
+- Junior Placement Coordinator, Training & Placement Cell DBIT (2025–Present)
+  Assisted in placement drives and student coordination
+
+Career Interests:
+Full-stack development, AI-integrated applications, backend engineering, and modern web systems.
+
+Instructions for AI Assistant:
+Answer user questions strictly based on this resume.
+If information is not present, reply:
+"I’m sorry — that information is not available in Glynis’s resume."
